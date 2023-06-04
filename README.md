@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **dannyhwright@gmail.com**
 
+- 👾 Currently **18 years old**
+
 - ❤️ Interested in coding **since I've been 12**
 
 - ⚡ Fun fact **I also play the piano**
