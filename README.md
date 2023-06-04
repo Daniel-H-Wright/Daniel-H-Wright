@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **dannyhwright@gmail.com**
 
+- ❤️ Interested in coding **since I've been 12**
+
 - ⚡ Fun fact **I also play the piano**
 
 <h3 align="left">Connect with me:</h3>
