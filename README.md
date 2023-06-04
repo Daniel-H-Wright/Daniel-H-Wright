@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danny Wright</h1>
 <h3 align="center">A developing programmer from England</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif](https://66.media.tumblr.com/1e4b7c44f265fd7682f353d0f20676c2/tumblr_mrfnyzgvim1rfjowdo1_500.gif)">
+<img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/1e4b7c44f265fd7682f353d0f20676c2/tumblr_mrfnyzgvim1rfjowdo1_500.gif">
 
 - 🌱 I’m currently learning **HTML and JavaScript**
 
